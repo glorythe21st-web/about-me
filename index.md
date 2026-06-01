@@ -3,6 +3,19 @@ layout: default
 ---
 
 <style>
+  /* Make the site wider on desktop and fluid on mobile */
+  .inner, .wrapper, .container-lg, main {
+    max-width: 1000px !important;
+    width: 90% !important;
+    margin: 0 auto !important;
+  }
+
+  /* Ensure images never break mobile boundaries */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
   /* Hover effect for the profile image */
   .profile-img {
     transition: transform 0.3s ease-in-out;
@@ -76,4 +89,4 @@ layout: default
 Pharmacology graduate with demonstrated experience in health education, academic research, and scientific communication. Proven ability to design and deliver practical training, mentor students, and translate complex pharmacological concepts into accessible, impactful learning experiences. Research background includes in-vivo preclinical studies, statistical data analysis, and scholarly literature review. Complemented by strong interpersonal skills and a commitment to community health education developed through national service. Eager to contribute to academic research, pharmacology, or biomedical sciences education.
 
 ## CONTACT ME
-**[EMAIL](mail.glory247@gmail.com) | [LINKEDIN](linkedin.com/in/glorythe21st) | Jos, Nigeria**
+**[EMAIL](mailto:mail.glory247@gmail.com) | [LINKEDIN](https://linkedin.com/in/glorythe21st) | Jos, Nigeria**
