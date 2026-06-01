@@ -1,6 +1,9 @@
-# GLORY JOSEPH MAMANI
+<img src="profile-pic.jpg" alt="Glory Joseph Mamani" width="200">
+
+## GLORY JOSEPH MAMANI
 **Pharmacology Graduate | Health Educator | Researcher**
-mail.glory247@gmail.com | linkedin.com/in/glorythe21st | Bauchi, Nigeria
+
+Contact | mail.glory247@gmail.com | linkedin.com/in/glorythe21st | Jos, Nigeria
 
 ## ACADEMIC PROFILE
 Pharmacology graduate with demonstrated experience in health education, academic research, and scientific communication. Proven ability to design and deliver practical training, mentor students, and translate complex pharmacological concepts into accessible, impactful learning experiences. Research background includes in-vivo preclinical studies, statistical data analysis, and scholarly literature review. Complemented by strong interpersonal skills and a commitment to community health education developed through national service. Eager to contribute to academic research, pharmacology, or biomedical sciences education.
@@ -80,3 +83,6 @@ Pharmacology graduate with demonstrated experience in health education, academic
 ## LANGUAGES
 * English - Professional Working Proficiency
 * Hausa - Professional Working Proficiency
+
+## REFERENCES
+* To be made available upon request
