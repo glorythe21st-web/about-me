@@ -54,8 +54,15 @@ layout: default
 
 <div class="nav-menu">
   <a href="index.html">Home</a>
+  <a href="education.html">Education</a>
+  <a href="skills.html">Skills</a>
   <a href="research.html">Research</a>
   <a href="experience.html">Experience</a>
+  <a href="certifications.html">Certifications</a>
+  <a href="memberships.html">Memberships</a>
+  <a href="awards.html">Awards</a>
+  <a href="languages.html">Languages</a>
+  <a href="references.html">References</a>
 </div>
 
 <img src="profile-pic.jpg" alt="Glory Joseph Mamani" width="200" class="profile-img">
@@ -69,13 +76,3 @@ Contact | mail.glory247@gmail.com | linkedin.com/in/glorythe21st | Jos, Nigeria
 
 ## ACADEMIC PROFILE
 Pharmacology graduate with demonstrated experience in health education, academic research, and scientific communication. Proven ability to design and deliver practical training, mentor students, and translate complex pharmacological concepts into accessible, impactful learning experiences. Research background includes in-vivo preclinical studies, statistical data analysis, and scholarly literature review. Complemented by strong interpersonal skills and a commitment to community health education developed through national service. Eager to contribute to academic research, pharmacology, or biomedical sciences education.
-
-## EDUCATION
-### B.Sc. Pharmacology - Second Class Upper Division (2:1)
-*Bauchi State University Gadau, Bauchi State | Jan 2020 - Jan 2025*
-* Awarded Second Class Upper Division - demonstrating consistent academic excellence throughout the programme.
-* Undergraduate Research Project: Evaluation of Analgesic Activity of Methanol and Aqueous Stem Bark Extracts of Prosopis Africana in Acetic Acid-Induced Pain in Swiss Albino Mice.
-* Core modules: Pharmacology & Toxicology, Drug Metabolism & Pharmacokinetics, Pathophysiology, Biostatistics, Research Methods, Molecular Biology, Human Physiology.
-* Member, Nigerian Pharmacology Students Association (NIPSA) and Bauchi State University Medical Students Association (BASUMSA).
-
-## TEACHING & ACADEMIC SKILLS
