@@ -18,8 +18,15 @@
 
 <div class="nav-menu">
   <a href="index.html">Home</a>
+  <a href="education.html">Education</a>
+  <a href="skills.html">Skills</a>
   <a href="research.html">Research</a>
   <a href="experience.html">Experience</a>
+  <a href="certifications.html">Certifications</a>
+  <a href="memberships.html">Memberships</a>
+  <a href="awards.html">Awards</a>
+  <a href="languages.html">Languages</a>
+  <a href="references.html">References</a>
 </div>
 
 ## RESEARCH & SCHOLARLY CONTRIBUTIONS
