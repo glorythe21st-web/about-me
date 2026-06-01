@@ -33,8 +33,6 @@ layout: default
     transform: translateY(-2px);
   }
 </style>
-  }
-</style>
 
 <div class="nav-menu">
   <a href="index.html">Home</a>
