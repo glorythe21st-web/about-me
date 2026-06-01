@@ -27,12 +27,6 @@ The portfolio is divided into the following sections for easy navigation:
 * **Markdown:** Core content formatting.
 * **HTML & CSS:** Custom interactive elements, image styling, and navigation menus.
 
-## How to Modify the Site
-1. Navigate to the specific `.md` file you wish to update in this repository.
-2. Click the pencil icon to edit the file.
-3. Make your text changes using standard Markdown syntax.
-4. Commit the changes directly to the `main` branch.
-5. GitHub Actions will automatically rebuild and deploy the updates to the live site within a few minutes.
 
 ## Contact Information
 * **Email:** mail.glory247@gmail.com
