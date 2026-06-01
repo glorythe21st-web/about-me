@@ -65,6 +65,13 @@ layout: default
   }
 </style>
 
+<img src="profile-pic.jpg" alt="Glory Joseph Mamani" width="200" class="profile-img">
+
+# GLORY JOSEPH MAMANI
+**Pharmacology Graduate | Health Educator | Researcher**
+
+<button class="interactive-btn" onclick="alert('Welcome to my portfolio! I am currently open to research and academic roles.')">HELLO!</button>
+
 <div class="nav-menu">
   <a href="index.html">Home</a>
   <a href="education.html">Education</a>
@@ -77,13 +84,6 @@ layout: default
   <a href="languages.html">Languages</a>
   <a href="references.html">References</a>
 </div>
-
-<img src="profile-pic.jpg" alt="Glory Joseph Mamani" width="200" class="profile-img">
-
-# GLORY JOSEPH MAMANI
-**Pharmacology Graduate | Health Educator | Researcher**
-
-<button class="interactive-btn" onclick="alert('Welcome to my portfolio! I am currently open to research and academic roles.')">HELLO!</button>
 
 ## ACADEMIC PROFILE
 Pharmacology graduate with demonstrated experience in health education, academic research, and scientific communication. Proven ability to design and deliver practical training, mentor students, and translate complex pharmacological concepts into accessible, impactful learning experiences. Research background includes in-vivo preclinical studies, statistical data analysis, and scholarly literature review. Complemented by strong interpersonal skills and a commitment to community health education developed through national service. Eager to contribute to academic research, pharmacology, or biomedical sciences education.
