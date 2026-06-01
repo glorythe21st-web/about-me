@@ -3,6 +3,19 @@ layout: default
 ---
 
 <style>
+  /* Make the site wider on desktop and fluid on mobile */
+  .inner, .wrapper, .container-lg, main {
+    max-width: 1000px !important;
+    width: 90% !important;
+    margin: 0 auto !important;
+  }
+
+  /* Ensure images never break mobile boundaries */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
   .nav-menu { margin-bottom: 25px; }
   .nav-menu a {
     display: inline-block;
@@ -18,6 +31,8 @@ layout: default
   .nav-menu a:hover {
     background-color: #1a252f;
     transform: translateY(-2px);
+  }
+</style>
   }
 </style>
 
