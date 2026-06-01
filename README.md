@@ -3,7 +3,7 @@
 Welcome to the repository for my personal and professional portfolio website, hosted on GitHub Pages. This site serves as a comprehensive digital resume highlighting my background in pharmacology, health education, and academic research.
 
 ## Live Site
-You can view the live website here: [Glory Joseph Mamani]([https://glorythe21st-web.github.io/](https://glorythe21st-web.github.io/glory-joseph-mamani_about-me/))
+You can view the live website here: [Glory Joseph Mamani](https://glorythe21st-web.github.io/glory-joseph-mamani_about-me)
 
 ## Project Overview
 This repository contains the source code for a multi-page static website. The site is built using Markdown and HTML, and it is automatically generated and styled using Jekyll's native GitHub Pages integration. 
