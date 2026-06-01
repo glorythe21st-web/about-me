@@ -1,4 +1,3 @@
-```markdown
 # GLORY JOSEPH MAMANI
 **Pharmacology Graduate | Health Educator | Researcher**
 mail.glory247@gmail.com | linkedin.com/in/glorythe21st | Bauchi, Nigeria
